@@ -1,0 +1,14 @@
+<ivy-module version="2.0">
+    <info organisation="ausl.bo.it" module="Riversatore"/>
+    <dependencies>
+        <dependency org="commons-lang" name="commons-lang" rev="latest.release"/>
+        <dependency org="commons-cli" name="commons-cli" rev="latest.release" />
+        <dependency org="commons-codec" name="commons-codec" rev="latest.release"/>
+        <dependency org="log4j" name="log4j" rev="latest.release"/>
+        <dependency org="org.apache.httpcomponents" name="httpclient" rev="latest.release"/>
+         <dependency org="org.apache.httpcomponents" name="httpcore"  rev="latest.release" />
+         <dependency org="org.apache.httpcomponents" name="httpmime" rev="latest.release"/>
+         <dependency org="xom" name="xom" rev="latest.release"/>
+         <dependency org="com.googlecode.json-simple" name="json-simple" rev="latest.release"/>
+    </dependencies>
+</ivy-module>

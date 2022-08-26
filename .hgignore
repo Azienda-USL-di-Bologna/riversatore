@@ -1,0 +1,11 @@
+lib
+nbproject
+build
+.*xsd
+.*pdf
+.*mf
+\.orig\..*$
+\.orig$
+\.chg\..*$
+\.rej$
+\.conflict\~$
